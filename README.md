@@ -26,3 +26,12 @@ The contents of the .env file should look similar to below (replace everything t
 
 SPOTIFY_ID=<Replace with your spotify id>
 SPOTIFY_SECRET=<Replace with your spotify secret>
+
+
+Running the app
+The app is executed on the command line using node. You will pass node the liri.js file and parameters that will control what LIRI Bot will do.
+
+Usage
+The syntax for calling the LIRI Bot on the command line is below:
+
+node liri.js <Action to perform> <Thing to search for>
