@@ -1,4 +1,6 @@
 LIRI Bot
+
+
 LIRI Bot is a node cli app that takes in parameters from the command line and uses those to make API calls to various services to get information and return it back for you by printing it out to the console.
 
 Getting Started
@@ -29,6 +31,8 @@ SPOTIFY_SECRET=<Replace with your spotify secret>
 
 
 Running the app
+
+
 The app is executed on the command line using node. You will pass node the liri.js file and parameters that will control what LIRI Bot will do.
 
 Usage
