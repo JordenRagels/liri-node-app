@@ -15,9 +15,8 @@ Node installed on your local machine
 Installing
 Follow the instructions in this section to get the app setup to run on your machine.
 
-Clone the git project to your machine (example below is using ssh)
+Clone the git project to your machine
 
-git clone git@github.com:chrisducey01/hey_liri.git
 Install the node module dependencies from the package.json file
 
 npm install
