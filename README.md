@@ -35,3 +35,4 @@ Usage
 The syntax for calling the LIRI Bot on the command line is below:
 
 node liri.js <Action to perform> <Thing to search for>
+
